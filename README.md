@@ -1,1 +1,2 @@
-Statement pass command parameter: file.exe param1 param2
+Use gcc in command line and run command:"file.exe param1 param2" to pass command parameter
++ file.exe is a file build by IDE, such as Devc, Visual code, Sublime text,...

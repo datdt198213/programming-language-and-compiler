@@ -1,0 +1,4 @@
+PROGRAM HELLOWORLD;
+CONST name = My Name is Dat;
+x = 123 + 456;
+x = 10;

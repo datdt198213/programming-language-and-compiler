@@ -1,2 +1,3 @@
+Install mingw in: https://sourceforge.net/projects/mingw-w64/ and set variable environment in computer
 Use gcc in command line and run command:"file.exe param1 param2" to pass command parameter
 + file.exe is a file build by IDE, such as Devc, Visual code, Sublime text,...
